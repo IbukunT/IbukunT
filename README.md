@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Ibukun!
-- 🌱 Current Bioinformatics Graduate Student at UGA
 - 📫 How to reach me: Ibukunoluwa.tella@uga.edu
 
 <!---
