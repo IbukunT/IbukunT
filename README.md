@@ -2,8 +2,10 @@
 
 ### About Me 🙆‍♀️
 - 👋 Hi, I’m Ibukun!
-- 📫 How to reach me: Ibukunoluwa.tella@uga.edu
-
+- 📫 How to find/reach me:
+  - [Email 📧](Ibukunoluwa.tella@uga.edu)
+  - [ORCiD 📂](https://orcid.org/0009-0008-1970-7301)
+  - [LinkedIn📡](https://www.linkedin.com/in/ibukunoluwa-tella/)
 
 ## My Stats 🔥
 [![GitHub Streak](https://streak-stats.demolab.com/?user=IbukunT&theme=midnight-purple)](https://git.io/streak-stats)
