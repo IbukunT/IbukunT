@@ -7,7 +7,7 @@
 
 ------------------------------------------------
 ## My Stats 🔥
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IbukunT)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IbukunT&theme=midnight-purple)](https://git.io/streak-stats)
 
 <!---
 IbukunT/IbukunT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
