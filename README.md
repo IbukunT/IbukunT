@@ -8,7 +8,7 @@
   - [LinkedIn📡](https://www.linkedin.com/in/ibukunoluwa-tella/)
 
 ## My Stats 🔥
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IbukunT)](https://git.io/streak-stats)
+![Langs stats](https://github-readme-stats.vercel.app/api?username=IbukunT&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbukunT)
 <!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbukunT)
