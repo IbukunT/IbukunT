@@ -9,7 +9,7 @@
 
 ## My Stats 🔥
 ![Langs stats](https://github-readme-stats.vercel.app/api?username=IbukunT&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbukunT)
+
 <!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbukunT)
 IbukunT/IbukunT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
